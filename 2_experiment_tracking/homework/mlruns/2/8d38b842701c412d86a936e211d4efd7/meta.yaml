@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/8d38b842701c412d86a936e211d4efd7/artifacts
+end_time: 1743008519574
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8d38b842701c412d86a936e211d4efd7
+run_name: rebellious-kit-18
+run_uuid: 8d38b842701c412d86a936e211d4efd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008511282
+status: 3
+tags: []
+user_id: codespace

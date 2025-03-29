@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/ab7ef67af3e34cff83ec62b4fef4eecd/artifacts
+end_time: 1743010391163
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: ab7ef67af3e34cff83ec62b4fef4eecd
+run_name: rambunctious-wren-95
+run_uuid: ab7ef67af3e34cff83ec62b4fef4eecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743010384015
+status: 3
+tags: []
+user_id: codespace

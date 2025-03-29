@@ -1,3 +1,4 @@
 # mlops
 
-change
+Run mlops locally:
+mlflow ui --backend-store-uri sqlite:///mlflow.db

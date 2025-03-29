@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/38b0694d1ccf45d18036518852b6319e/artifacts
+end_time: 1743008529881
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 38b0694d1ccf45d18036518852b6319e
+run_name: intelligent-fawn-985
+run_uuid: 38b0694d1ccf45d18036518852b6319e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008525616
+status: 3
+tags: []
+user_id: codespace

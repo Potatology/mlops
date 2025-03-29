@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/2d1ee0ade8824d2bb44801aa1dc3352a/artifacts
+end_time: 1743008533080
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2d1ee0ade8824d2bb44801aa1dc3352a
+run_name: whimsical-smelt-555
+run_uuid: 2d1ee0ade8824d2bb44801aa1dc3352a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008529888
+status: 3
+tags: []
+user_id: codespace

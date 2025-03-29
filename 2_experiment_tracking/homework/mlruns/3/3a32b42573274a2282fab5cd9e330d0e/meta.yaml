@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/3a32b42573274a2282fab5cd9e330d0e/artifacts
+end_time: 1743010397517
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 3a32b42573274a2282fab5cd9e330d0e
+run_name: masked-calf-413
+run_uuid: 3a32b42573274a2282fab5cd9e330d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743010391172
+status: 3
+tags: []
+user_id: codespace

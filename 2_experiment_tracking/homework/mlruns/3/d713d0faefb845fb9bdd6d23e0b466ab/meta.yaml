@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/d713d0faefb845fb9bdd6d23e0b466ab/artifacts
+end_time: 1743010377085
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: d713d0faefb845fb9bdd6d23e0b466ab
+run_name: masked-shrew-388
+run_uuid: d713d0faefb845fb9bdd6d23e0b466ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743010366364
+status: 3
+tags: []
+user_id: codespace

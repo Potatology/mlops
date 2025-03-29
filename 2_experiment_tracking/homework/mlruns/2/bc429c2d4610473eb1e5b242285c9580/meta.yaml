@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/bc429c2d4610473eb1e5b242285c9580/artifacts
+end_time: 1743008544469
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bc429c2d4610473eb1e5b242285c9580
+run_name: clean-donkey-852
+run_uuid: bc429c2d4610473eb1e5b242285c9580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008539646
+status: 3
+tags: []
+user_id: codespace

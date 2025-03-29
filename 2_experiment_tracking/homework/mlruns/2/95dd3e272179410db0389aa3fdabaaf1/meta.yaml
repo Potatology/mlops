@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/95dd3e272179410db0389aa3fdabaaf1/artifacts
+end_time: 1743008502858
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 95dd3e272179410db0389aa3fdabaaf1
+run_name: nosy-skink-648
+run_uuid: 95dd3e272179410db0389aa3fdabaaf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008500431
+status: 3
+tags: []
+user_id: codespace

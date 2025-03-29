@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/eabde1a2028942d395518a41c015d62f/artifacts
+end_time: 1743008539639
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: eabde1a2028942d395518a41c015d62f
+run_name: learned-turtle-782
+run_uuid: eabde1a2028942d395518a41c015d62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743008536626
+status: 3
+tags: []
+user_id: codespace

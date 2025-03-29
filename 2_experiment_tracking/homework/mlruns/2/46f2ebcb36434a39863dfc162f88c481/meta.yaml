@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/46f2ebcb36434a39863dfc162f88c481/artifacts
+end_time: 1743008027625
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 46f2ebcb36434a39863dfc162f88c481
+run_name: amusing-croc-893
+run_uuid: 46f2ebcb36434a39863dfc162f88c481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743007960176
+status: 3
+tags: []
+user_id: codespace

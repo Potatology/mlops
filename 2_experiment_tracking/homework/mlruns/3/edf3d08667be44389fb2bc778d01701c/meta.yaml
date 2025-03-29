@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/edf3d08667be44389fb2bc778d01701c/artifacts
+end_time: 1743010384008
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: edf3d08667be44389fb2bc778d01701c
+run_name: treasured-moth-563
+run_uuid: edf3d08667be44389fb2bc778d01701c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743010377091
+status: 3
+tags: []
+user_id: codespace
